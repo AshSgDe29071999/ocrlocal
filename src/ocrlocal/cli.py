@@ -49,8 +49,8 @@ class DefaultOCRGroup(TyperGroup):
 
 app = typer.Typer(
     name="ocrlocal",
-    help=(
-        "Dead-simple offline OCR. No cloud. No API keys.\n\n"
+    help="Dead-simple offline OCR. No cloud. No API keys.",
+    epilog=(
         "Examples:\n"
         "  ocrlocal image.png\n"
         "  ocrlocal photos/*.png --json\n"
