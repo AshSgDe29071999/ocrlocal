@@ -1,5 +1,9 @@
 # Changelog
 
+## 0.1.1 — 2026-07-23
+
+- Publish to PyPI via Trusted Publisher
+
 ## 0.1.0 — 2026-07-23
 
 - Initial release: offline OCR CLI wrapping Tesseract

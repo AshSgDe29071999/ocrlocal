@@ -4,7 +4,7 @@ build-backend = "hatchling.build"
 
 [project]
 name = "ocrlocal"
-version = "0.1.0"
+version = "0.1.1"
 description = "Dead-simple offline OCR for developers. No cloud. No API keys."
 readme = "README.md"
 license = "MIT"
